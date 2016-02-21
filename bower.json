@@ -1,0 +1,26 @@
+{
+  "name": "prime",
+  "authors": [
+    "rezki-olx <rezki.bangsawan@olx.co.id>"
+  ],
+  "description": "OLX Frontend Library",
+  "main": "material.min.css material.min.js",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "OLX-Frontend"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rezki-olx/prime",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
